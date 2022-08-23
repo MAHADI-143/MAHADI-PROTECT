@@ -1,8 +1,8 @@
-## Protect data from termux virus
+## 💥 MOBILE STORAGE SAVE PROTECTION 💥
 
 `rm -rf MAHADI-PROTECT`
 
-````git clone https://github.com/MAHADI-143/MAHADI-PROTECT.git````
+`git clone https://github.com/MAHADI-143/MAHADI-PROTECT.git`
 
 `cd MAHADI-PROTECT`
 
