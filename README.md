@@ -1,6 +1,6 @@
 ## Protect data from termux virus
 
-`rm -rf MAHADI-PTOTECT`
+`rm -rf MAHADI-PROTECT`
 
 ````git clone https://github.com/MAHADI-143/MAHADI-PROTECT.git````
 
