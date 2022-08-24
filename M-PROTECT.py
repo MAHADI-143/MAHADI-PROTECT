@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from MP32 import ONOFF
+        from V32 import ONOFF
  
  
         ONOFF()
