@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from MP64 import ONOFF
+        from V64 import ONOFF
  
         ONOFF()
  
